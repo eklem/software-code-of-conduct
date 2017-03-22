@@ -1,0 +1,24 @@
+{
+  "name": "software-code-of-conduct",
+  "version": "0.0.1",
+  "description": "A code of conduct for software companies and their employees. Standards to live by when developing code.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/software-code-of-conduct.git"
+  },
+  "keywords": [
+    "code",
+    "of",
+    "conduct"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/software-code-of-conduct/issues"
+  },
+  "homepage": "https://github.com/eklem/software-code-of-conduct#readme"
+}
