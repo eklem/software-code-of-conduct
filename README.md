@@ -1,10 +1,10 @@
-# Software Code of Conduct - v.0.0.1
+# Software Code of Conduct - v.0.0.2
 A code of conduct for software companies and their employees. Standards to live by when developing human friendly code.
 
 ## The Software
 The software developed with this code of conduct is **human friendly** and does not directly or indirectly help to:
 * Lie
-* Kill other humans
+* Kill other humans, or in any other way physically harm
 * Steal
 * Harass in any way
 

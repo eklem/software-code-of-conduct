@@ -1,6 +1,6 @@
 {
   "name": "software-code-of-conduct",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A code of conduct for software companies and their employees. Standards to live by when developing code.",
   "main": "README.md",
   "scripts": {
