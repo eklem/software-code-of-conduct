@@ -1,4 +1,4 @@
-# Software Code of Conduct - v.0.1
+# Software Code of Conduct - v.0.0.1
 A code of conduct for software companies and their employees. Standards to live by when developing human friendly code.
 
 ## The Software
