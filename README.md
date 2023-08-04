@@ -20,7 +20,7 @@ Instead of using this code of conduct to distribute blame and point fingers, it 
 One way of living by this code of conduct is to discuss (publicly) what you get out of it, what this means for your software and where you see your software could be better.
 
 ### Show it
-![<scc v0.1/>](https://github.com/eklem/software-code-of-conduct/blob/master/src/scc-tag-light-regular-twocolor-v0.1.png) Software Code of Conduct v0.1
+![<scc v0.1/>](https://raw.githubusercontent.com/eklem/software-code-of-conduct/master/src/scc-tag-light-regular-twocolor-v0.1.svg) Software Code of Conduct v0.1
 
 ## What is this?
 A take on "[Guilds, Ethics, and Software Engineering as one of The Professions](https://hackernoon.com/why-isnt-software-engineering-a-profession-68d1900112fc)". Develop this code of conduct into something companies will follow and developers to demand (and then follow) when they apply for a job.
