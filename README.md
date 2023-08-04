@@ -1,10 +1,10 @@
-# Software Code of Conduct - v.0.0.1
+# Software Code of Conduct - v.0.1
 A code of conduct for software companies and their employees. Standards to live by when developing human friendly code.
 
 ## The Software
 The software developed with this code of conduct is **human friendly** and does not directly or indirectly help to:
 * Lie
-* Kill other humans, or in any other way physically harm
+* Physically harm
 * Steal
 * Harass in any way
 
@@ -18,6 +18,9 @@ Working in a organization following the Software Code of Conduct I have the poss
 Instead of using this code of conduct to distribute blame and point fingers, it should be used as a way to make employers and employees concious of their own actions and what they can do to create more human friendly software. There will always be interpretations of what the code of conduct means for a piece of software.
 
 One way of living by this code of conduct is to discuss (publicly) what you get out of it, what this means for your software and where you see your software could be better.
+
+### Show it
+
 
 ## What is this?
 A take on "[Guilds, Ethics, and Software Engineering as one of The Professions](https://hackernoon.com/why-isnt-software-engineering-a-profession-68d1900112fc)". Develop this code of conduct into something companies will follow and developers to demand (and then follow) when they apply for a job.
